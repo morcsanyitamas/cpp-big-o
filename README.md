@@ -122,8 +122,16 @@ The current implementation of the recursive Fibonacci function has poor time com
 
 Your task is to optimize the Fibonacci function to improve its performance. Try to figure out the time and space complexity of the following approaches:
 * Iterative Approach
+    * Time Complexity: O(n)
+    * Space Complexity: O(1)
 * Naive Recursive Approach
+    * Time Complexity: O(2ⁿ)
+    * Space Complexity: O(n)
 * Recursive Approach with Memoization
+    * Time Complexity: O(n)
+    * Space Complexity: O(n)
 * Tail Recursive Approach
+    * Time Complexity: O(n)
+    * Space Complexity: O(n)
 
 Write the optimized Fibonacci function in C++ and test it with different input values.
